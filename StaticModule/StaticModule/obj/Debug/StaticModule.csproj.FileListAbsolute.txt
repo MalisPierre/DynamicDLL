@@ -1,0 +1,6 @@
+D:\projet\Unity\source\2018_3\StaticModule\StaticModule\bin\Debug\StaticModule.dll
+D:\projet\Unity\source\2018_3\StaticModule\StaticModule\bin\Debug\StaticModule.pdb
+D:\projet\Unity\source\2018_3\StaticModule\StaticModule\bin\Debug\UnityEngine.dll
+D:\projet\Unity\source\2018_3\StaticModule\StaticModule\bin\Debug\UnityEngine.xml
+D:\projet\Unity\source\2018_3\StaticModule\StaticModule\obj\Debug\StaticModule.dll
+D:\projet\Unity\source\2018_3\StaticModule\StaticModule\obj\Debug\StaticModule.pdb

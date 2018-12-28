@@ -1,0 +1,3 @@
+D:\projet\Unity\source\2018_3\DynamicDLL\Data\DynamicModule.dll
+D:\projet\Unity\source\2018_3\DynamicModule\DynamicModule\obj\Release\DynamicModule.dll
+D:\projet\Unity\source\2018_3\DynamicModule\DynamicModule\obj\Release\DynamicModule.csprojResolveAssemblyReference.cache

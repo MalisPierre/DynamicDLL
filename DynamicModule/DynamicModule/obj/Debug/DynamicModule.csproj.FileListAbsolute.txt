@@ -1,0 +1,7 @@
+D:\projet\Unity\source\2018_3\DynamicModule\DynamicModule\bin\Debug\DynamicModule.dll
+D:\projet\Unity\source\2018_3\DynamicModule\DynamicModule\bin\Debug\DynamicModule.pdb
+D:\projet\Unity\source\2018_3\DynamicModule\DynamicModule\bin\Debug\StaticModule.dll
+D:\projet\Unity\source\2018_3\DynamicModule\DynamicModule\bin\Debug\UnityEngine.dll
+D:\projet\Unity\source\2018_3\DynamicModule\DynamicModule\bin\Debug\UnityEngine.xml
+D:\projet\Unity\source\2018_3\DynamicModule\DynamicModule\obj\Debug\DynamicModule.dll
+D:\projet\Unity\source\2018_3\DynamicModule\DynamicModule\obj\Debug\DynamicModule.pdb

@@ -1,0 +1,2 @@
+D:\projet\Unity\source\2018_3\DynamicDLL\Assets\Depedency\StaticModule.dll
+D:\projet\Unity\source\2018_3\StaticModule\StaticModule\obj\Release\StaticModule.dll
