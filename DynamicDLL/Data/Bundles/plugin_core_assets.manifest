@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 1845145956
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c0a75e38a2cca4b3d5fb98ab4a9fe907
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e82fd144621b8e77eac2861e9e5f913b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -1010067213, guid: f8f713bbbca8da3439674e4766a38994, type: 3}
+- Class: 114
+  Script: {fileID: 2086210337, guid: ff5b27484e0d6b14a973d7bd3bedfb77, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+Assets:
+- Assets/Content/plugin_core/plugin_core_assets/Player.prefab
+- Assets/Content/plugin_core/plugin_core_assets/Element.prefab
+Dependencies: []

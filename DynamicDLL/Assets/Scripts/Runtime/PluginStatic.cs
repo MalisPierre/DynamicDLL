@@ -5,12 +5,12 @@ using UnityEngine;
 using System;
 
 using StaticModule;
-//using DynamicModule;
+using DynamicModule;
 
 
 public class PluginStatic : MonoBehaviour
 {
-/*
+
     void DebugAssembly()
     {
         Debug.Log("Debbuging Assemblies ...");
@@ -54,5 +54,5 @@ public class PluginStatic : MonoBehaviour
         
     }
 
-    */
+    
 }

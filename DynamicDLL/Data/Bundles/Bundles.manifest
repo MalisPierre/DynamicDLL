@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 4260046925
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: plugin_core_assets
+      Dependencies: {}
